@@ -1,2 +1,2 @@
-# Programing-Fundametals-C-
+# Programing-Fundametals-C#
 Courses from my education @ SoftUni.
