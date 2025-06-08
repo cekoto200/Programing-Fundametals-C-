@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E2C3DB6-B820-41DB-A0D1-50FBE3224405}|11.Orders\\11.Orders.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E2C3DB6-B820-41DB-A0D1-50FBE3224405}|11.Orders\\11.Orders.csproj|solutionrelative:11.orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03041015-3976-4142-AEB7-1F80C78E27A6}|10.RageExpenses\\10.RageExpenses.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03041015-3976-4142-AEB7-1F80C78E27A6}|10.RageExpenses\\10.RageExpenses.csproj|solutionrelative:10.rageexpenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED1C74D-3B78-403A-A2C2-02DEB6DFDCCB}|09.PadawanEquipment\\09.PadawanEquipment.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\09.padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED1C74D-3B78-403A-A2C2-02DEB6DFDCCB}|09.PadawanEquipment\\09.PadawanEquipment.csproj|solutionrelative:09.padawanequipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{207FC1A6-EACF-401F-B381-3D535FCD739B}|08.TriangleOfNumbers\\08.TriangleOfNumbers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\08.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{207FC1A6-EACF-401F-B381-3D535FCD739B}|08.TriangleOfNumbers\\08.TriangleOfNumbers.csproj|solutionrelative:08.triangleofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241AE4E0-B16E-438E-89DB-CFF7EDB01D42}|07.VendingMachine\\07.VendingMachine.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241AE4E0-B16E-438E-89DB-CFF7EDB01D42}|07.VendingMachine\\07.VendingMachine.csproj|solutionrelative:07.vendingmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E0E768D-7D2C-4EA4-A98B-E6EC82B61D5E}|02. Division\\02. Division.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\02. division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E0E768D-7D2C-4EA4-A98B-E6EC82B61D5E}|02. Division\\02. Division.csproj|solutionrelative:02. division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15F59671-09D3-4EEF-9859-4E8DB52AC2D7}|06.strongNumber\\06.strongNumber.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15F59671-09D3-4EEF-9859-4E8DB52AC2D7}|06.strongNumber\\06.strongNumber.csproj|solutionrelative:06.strongnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B15AE258-B4BA-43FE-93A2-84F05F148565}|05.Login\\05.Login.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15AE258-B4BA-43FE-93A2-84F05F148565}|05.Login\\05.Login.csproj|solutionrelative:05.login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44EF180-008A-49E0-8C49-589F3BD0C6A6}|04.PrintAndSum\\04.PrintAndSum.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\04.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44EF180-008A-49E0-8C49-589F3BD0C6A6}|04.PrintAndSum\\04.PrintAndSum.csproj|solutionrelative:04.printandsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D16CC9-4311-496C-90A3-6EDE7BDBE3EF}|03. Vacation\\03. Vacation.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D16CC9-4311-496C-90A3-6EDE7BDBE3EF}|03. Vacation\\03. Vacation.csproj|solutionrelative:03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1164158-04FE-4094-91AF-042B74293C43}|01.Ages1\\01.Ages1.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisebasicsyntaxconditionalstatementsandloopsf\\01.ages1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1164158-04FE-4094-91AF-042B74293C43}|01.Ages1\\01.Ages1.csproj|solutionrelative:01.ages1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\11.Orders\\Program.cs",
+              "RelativeDocumentMoniker": "11.Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\11.Orders\\Program.cs",
+              "RelativeToolTip": "11.Orders\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:53:33.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\10.RageExpenses\\Program.cs",
+              "RelativeDocumentMoniker": "10.RageExpenses\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\10.RageExpenses\\Program.cs",
+              "RelativeToolTip": "10.RageExpenses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:51:03.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\09.PadawanEquipment\\Program.cs",
+              "RelativeDocumentMoniker": "09.PadawanEquipment\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\09.PadawanEquipment\\Program.cs",
+              "RelativeToolTip": "09.PadawanEquipment\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:13:34.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\08.TriangleOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "08.TriangleOfNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\08.TriangleOfNumbers\\Program.cs",
+              "RelativeToolTip": "08.TriangleOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:01:31.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\07.VendingMachine\\Program.cs",
+              "RelativeDocumentMoniker": "07.VendingMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\07.VendingMachine\\Program.cs",
+              "RelativeToolTip": "07.VendingMachine\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:31:22.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\06.strongNumber\\Program.cs",
+              "RelativeDocumentMoniker": "06.strongNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\06.strongNumber\\Program.cs",
+              "RelativeToolTip": "06.strongNumber\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:17:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\05.Login\\Program.cs",
+              "RelativeDocumentMoniker": "05.Login\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\05.Login\\Program.cs",
+              "RelativeToolTip": "05.Login\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:07:36.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\04.PrintAndSum\\Program.cs",
+              "RelativeDocumentMoniker": "04.PrintAndSum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\04.PrintAndSum\\Program.cs",
+              "RelativeToolTip": "04.PrintAndSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T14:02:38.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\03. Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03. Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\03. Vacation\\Program.cs",
+              "RelativeToolTip": "03. Vacation\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wEoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:48:40.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\02. Division\\Program.cs",
+              "RelativeDocumentMoniker": "02. Division\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\02. Division\\Program.cs",
+              "RelativeToolTip": "02. Division\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:23:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\01.Ages1\\Program.cs",
+              "RelativeDocumentMoniker": "01.Ages1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\\01.Ages1\\Program.cs",
+              "RelativeToolTip": "01.Ages1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA3wBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:19:03.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

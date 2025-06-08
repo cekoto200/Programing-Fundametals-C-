@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97F1FE3-0EEC-4273-A5E4-828F7E2CB1E4}|Graduation\\Graduation.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97F1FE3-0EEC-4273-A5E4-828F7E2CB1E4}|Graduation\\Graduation.csproj|solutionrelative:graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1083A9DD-3B7F-439A-A16C-5497BF11CBD8}|MinNumber\\MinNumber.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1083A9DD-3B7F-439A-A16C-5497BF11CBD8}|MinNumber\\MinNumber.csproj|solutionrelative:minnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853F46D6-426A-4626-ACF0-ECA53BAFB9E1}|MaxNumber\\MaxNumber.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853F46D6-426A-4626-ACF0-ECA53BAFB9E1}|MaxNumber\\MaxNumber.csproj|solutionrelative:maxnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0007B0-6F49-499C-A441-A115B6A326C9}|Sequence2k\u002B1\\Sequence2k\u002B1.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0007B0-6F49-499C-A441-A115B6A326C9}|Sequence2k\u002B1\\Sequence2k\u002B1.csproj|solutionrelative:sequence2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FDD02A-0AE5-4783-9EA5-A90291E445E9}|AccountBalance\\AccountBalance.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FDD02A-0AE5-4783-9EA5-A90291E445E9}|AccountBalance\\AccountBalance.csproj|solutionrelative:accountbalance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84FDD383-640A-43BF-A94A-E2121FE2FB13}|SumNumbers\\SumNumbers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84FDD383-640A-43BF-A94A-E2121FE2FB13}|SumNumbers\\SumNumbers.csproj|solutionrelative:sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA752EA-34A0-4BB6-A592-00A578752A63}|Password\\Password.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA752EA-34A0-4BB6-A592-00A578752A63}|Password\\Password.csproj|solutionrelative:password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB07941B-002C-460C-9B85-006C8DBFDD24}|ReadText\\ReadText.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\whileloop\\readtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB07941B-002C-460C-9B85-006C8DBFDD24}|ReadText\\ReadText.csproj|solutionrelative:readtext\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "Graduation\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\Graduation\\Program.cs",
+              "RelativeToolTip": "Graduation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:19:15.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\MinNumber\\Program.cs",
+              "RelativeDocumentMoniker": "MinNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\MinNumber\\Program.cs",
+              "RelativeToolTip": "MinNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:17:27.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\MaxNumber\\Program.cs",
+              "RelativeDocumentMoniker": "MaxNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\MaxNumber\\Program.cs",
+              "RelativeToolTip": "MaxNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T18:10:04.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\AccountBalance\\Program.cs",
+              "RelativeDocumentMoniker": "AccountBalance\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\AccountBalance\\Program.cs",
+              "RelativeToolTip": "AccountBalance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:56:27.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\Sequence2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "Sequence2k\u002B1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\Sequence2k\u002B1\\Program.cs",
+              "RelativeToolTip": "Sequence2k\u002B1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:53:48.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\SumNumbers\\Program.cs",
+              "RelativeToolTip": "SumNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:40:12.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\Password\\Program.cs",
+              "RelativeDocumentMoniker": "Password\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\Password\\Program.cs",
+              "RelativeToolTip": "Password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:35:23.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\ReadText\\Program.cs",
+              "RelativeDocumentMoniker": "ReadText\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\WhileLoop\\ReadText\\Program.cs",
+              "RelativeToolTip": "ReadText\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T17:32:09.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

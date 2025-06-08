@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.exe
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.deps.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.runtimeconfig.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\bin\Debug\net6.0\EvenPowersOf2.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\refint\EvenPowersOf2.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\EvenPowersOf2.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\EvenPowersOf2\obj\Debug\net6.0\ref\EvenPowersOf2.dll

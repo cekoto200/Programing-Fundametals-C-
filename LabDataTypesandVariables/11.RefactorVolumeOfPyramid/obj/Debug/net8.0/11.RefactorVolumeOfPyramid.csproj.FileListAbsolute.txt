@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.exe
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.deps.json
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.runtimeconfig.json
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\bin\Debug\net8.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.dll
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\refint\11.RefactorVolumeOfPyramid.dll
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.pdb
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\11.RefactorVolumeOfPyramid.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\LabDataTypesandVariables\11.RefactorVolumeOfPyramid\obj\Debug\net8.0\ref\11.RefactorVolumeOfPyramid.dll

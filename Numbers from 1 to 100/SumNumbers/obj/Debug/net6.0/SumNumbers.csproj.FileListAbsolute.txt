@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\bin\Debug\net6.0\SumNumbers.exe
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\bin\Debug\net6.0\SumNumbers.deps.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\bin\Debug\net6.0\SumNumbers.runtimeconfig.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\bin\Debug\net6.0\SumNumbers.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\bin\Debug\net6.0\SumNumbers.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\SumNumbers.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\SumNumbers.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\refint\SumNumbers.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\SumNumbers.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\SumNumbers.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\SumNumbers\obj\Debug\net6.0\ref\SumNumbers.dll

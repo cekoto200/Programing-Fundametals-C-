@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCADEFD-4C91-4DB6-80ED-024854752A1E}|12.RefactorSpecialNumbers\\12.RefactorSpecialNumbers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\12.refactorspecialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCADEFD-4C91-4DB6-80ED-024854752A1E}|12.RefactorSpecialNumbers\\12.RefactorSpecialNumbers.csproj|solutionrelative:12.refactorspecialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06568576-C136-4CC7-8E66-6BCB1DF2F230}|05.SpecialNumbers\\05.SpecialNumbers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\05.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06568576-C136-4CC7-8E66-6BCB1DF2F230}|05.SpecialNumbers\\05.SpecialNumbers.csproj|solutionrelative:05.specialnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A72FA08-7819-435B-AA48-6C362F3CC2EB}|11.RefactorVolumeOfPyramid\\11.RefactorVolumeOfPyramid.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\11.refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A72FA08-7819-435B-AA48-6C362F3CC2EB}|11.RefactorVolumeOfPyramid\\11.RefactorVolumeOfPyramid.csproj|solutionrelative:11.refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41BCF5DB-573F-4922-9D02-492CAB415918}|06.ReversedChars\\06.ReversedChars.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\06.reversedchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41BCF5DB-573F-4922-9D02-492CAB415918}|06.ReversedChars\\06.ReversedChars.csproj|solutionrelative:06.reversedchars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62FEFC1-B2B6-4044-AABB-8DE24F4ADB9D}|10.LowerOrUpper\\10.LowerOrUpper.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\10.lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62FEFC1-B2B6-4044-AABB-8DE24F4ADB9D}|10.LowerOrUpper\\10.LowerOrUpper.csproj|solutionrelative:10.lowerorupper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{739B0758-77D4-4D97-8C55-8AB366B7328C}|09.CharsToString\\09.CharsToString.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\09.charstostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{739B0758-77D4-4D97-8C55-8AB366B7328C}|09.CharsToString\\09.CharsToString.csproj|solutionrelative:09.charstostring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B138D536-14F6-4DEC-A2D0-8EF3EC83702B}|08.TownInfo\\08.TownInfo.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\08.towninfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B138D536-14F6-4DEC-A2D0-8EF3EC83702B}|08.TownInfo\\08.TownInfo.csproj|solutionrelative:08.towninfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7620654A-FA99-4F77-BAC6-0A4B1E2FF9D9}|07.ConcatNames\\07.ConcatNames.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\07.concatnames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7620654A-FA99-4F77-BAC6-0A4B1E2FF9D9}|07.ConcatNames\\07.ConcatNames.csproj|solutionrelative:07.concatnames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7129913-052C-4B6B-8AC7-B73DC2426F33}|04.CenturiesToMinutes\\04.CenturiesToMinutes.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\04.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7129913-052C-4B6B-8AC7-B73DC2426F33}|04.CenturiesToMinutes\\04.CenturiesToMinutes.csproj|solutionrelative:04.centuriestominutes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E142F2-C9DA-4DE5-BBB2-1C5077770416}|03.ExactSumOfRealNumbers\\03.ExactSumOfRealNumbers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\03.exactsumofrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E142F2-C9DA-4DE5-BBB2-1C5077770416}|03.ExactSumOfRealNumbers\\03.ExactSumOfRealNumbers.csproj|solutionrelative:03.exactsumofrealnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A1DC6B-F030-4F9F-91D6-2360710DED61}|02.PoundsToDollars\\02.PoundsToDollars.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\02.poundstodollars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A1DC6B-F030-4F9F-91D6-2360710DED61}|02.PoundsToDollars\\02.PoundsToDollars.csproj|solutionrelative:02.poundstodollars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22F23F2C-8F8E-4AF7-B2D3-B096496965DF}|Convert Meters to Kilometers\\01.Convert Meters to Kilometers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\labdatatypesandvariables\\convert meters to kilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F23F2C-8F8E-4AF7-B2D3-B096496965DF}|Convert Meters to Kilometers\\01.Convert Meters to Kilometers.csproj|solutionrelative:convert meters to kilometers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\05.SpecialNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "05.SpecialNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\05.SpecialNumbers\\Program.cs",
+              "RelativeToolTip": "05.SpecialNumbers\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T17:26:06.242Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\12.RefactorSpecialNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "12.RefactorSpecialNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\12.RefactorSpecialNumbers\\Program.cs",
+              "RelativeToolTip": "12.RefactorSpecialNumbers\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:22:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\11.RefactorVolumeOfPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "11.RefactorVolumeOfPyramid\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\11.RefactorVolumeOfPyramid\\Program.cs",
+              "RelativeToolTip": "11.RefactorVolumeOfPyramid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:58:51.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\10.LowerOrUpper\\Program.cs",
+              "RelativeDocumentMoniker": "10.LowerOrUpper\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\10.LowerOrUpper\\Program.cs",
+              "RelativeToolTip": "10.LowerOrUpper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:53:44.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\09.CharsToString\\Program.cs",
+              "RelativeDocumentMoniker": "09.CharsToString\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\09.CharsToString\\Program.cs",
+              "RelativeToolTip": "09.CharsToString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:51:55.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\08.TownInfo\\Program.cs",
+              "RelativeDocumentMoniker": "08.TownInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\08.TownInfo\\Program.cs",
+              "RelativeToolTip": "08.TownInfo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:45:41.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\07.ConcatNames\\Program.cs",
+              "RelativeDocumentMoniker": "07.ConcatNames\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\07.ConcatNames\\Program.cs",
+              "RelativeToolTip": "07.ConcatNames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:42:50.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\06.ReversedChars\\Program.cs",
+              "RelativeDocumentMoniker": "06.ReversedChars\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\06.ReversedChars\\Program.cs",
+              "RelativeToolTip": "06.ReversedChars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T20:34:42.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\04.CenturiesToMinutes\\Program.cs",
+              "RelativeDocumentMoniker": "04.CenturiesToMinutes\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\04.CenturiesToMinutes\\Program.cs",
+              "RelativeToolTip": "04.CenturiesToMinutes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:53:51.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\03.ExactSumOfRealNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "03.ExactSumOfRealNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\03.ExactSumOfRealNumbers\\Program.cs",
+              "RelativeToolTip": "03.ExactSumOfRealNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:46:30.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\02.PoundsToDollars\\Program.cs",
+              "RelativeDocumentMoniker": "02.PoundsToDollars\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\02.PoundsToDollars\\Program.cs",
+              "RelativeToolTip": "02.PoundsToDollars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T16:43:11.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\Convert Meters to Kilometers\\Program.cs",
+              "RelativeDocumentMoniker": "Convert Meters to Kilometers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\LabDataTypesandVariables\\Convert Meters to Kilometers\\Program.cs",
+              "RelativeToolTip": "Convert Meters to Kilometers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:59:52.576Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

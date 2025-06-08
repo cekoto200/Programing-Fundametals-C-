@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCAB913-6E38-4C5A-A4EA-D572B9B7444F}|OddEvenSum\\OddEvenSum.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCAB913-6E38-4C5A-A4EA-D572B9B7444F}|OddEvenSum\\OddEvenSum.csproj|solutionrelative:oddevensum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8885BCA1-2D0F-4490-A111-DBB5AB20F6EB}|LeftAndRigh Sum\\LeftAndRigh Sum.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\leftandrigh sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8885BCA1-2D0F-4490-A111-DBB5AB20F6EB}|LeftAndRigh Sum\\LeftAndRigh Sum.csproj|solutionrelative:leftandrigh sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3EB3F02-4150-4051-B23C-896ADEB83C81}|NumberSequence\\NumberSequence.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\numbersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3EB3F02-4150-4051-B23C-896ADEB83C81}|NumberSequence\\NumberSequence.csproj|solutionrelative:numbersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9D6947-B4AB-4869-9693-AC20276EB995}|ForLoop\\ForLoop.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9D6947-B4AB-4869-9693-AC20276EB995}|ForLoop\\ForLoop.csproj|solutionrelative:forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29A5A8EB-C667-45EA-B211-279D79EDA2E0}|EvenPowersOf2\\EvenPowersOf2.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29A5A8EB-C667-45EA-B211-279D79EDA2E0}|EvenPowersOf2\\EvenPowersOf2.csproj|solutionrelative:evenpowersof2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE8A5D-6D75-4B57-A2D6-974D6F750168}|CharacterSequence\\CharacterSequence.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\charactersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE8A5D-6D75-4B57-A2D6-974D6F750168}|CharacterSequence\\CharacterSequence.csproj|solutionrelative:charactersequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C515FB4-F700-439C-9A1B-F21E74369A5E}|SumNumbers\\SumNumbers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C515FB4-F700-439C-9A1B-F21E74369A5E}|SumNumbers\\SumNumbers.csproj|solutionrelative:sumnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95AAFF4-22DA-4282-BB17-EE20098CA733}|VowelsSum\\VowelsSum.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\vowelssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95AAFF4-22DA-4282-BB17-EE20098CA733}|VowelsSum\\VowelsSum.csproj|solutionrelative:vowelssum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8210BE-2346-4571-8F03-3B6EFEDBB5EC}|Numbers1ToNWithStep 3\\Numbers1ToNWithStep 3.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\numbers1tonwithstep 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8210BE-2346-4571-8F03-3B6EFEDBB5EC}|Numbers1ToNWithStep 3\\Numbers1ToNWithStep 3.csproj|solutionrelative:numbers1tonwithstep 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20514D6E-42AE-4F79-8118-74723C411424}|NumbersNTo1\\NumbersNTo1.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\numbers from 1 to 100\\numbersnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20514D6E-42AE-4F79-8118-74723C411424}|NumbersNTo1\\NumbersNTo1.csproj|solutionrelative:numbersnto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\OddEvenSum\\Program.cs",
+              "RelativeDocumentMoniker": "OddEvenSum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\OddEvenSum\\Program.cs",
+              "RelativeToolTip": "OddEvenSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:58:36.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\LeftAndRigh Sum\\Program.cs",
+              "RelativeDocumentMoniker": "LeftAndRigh Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\LeftAndRigh Sum\\Program.cs",
+              "RelativeToolTip": "LeftAndRigh Sum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:20:37.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\NumberSequence\\Program.cs",
+              "RelativeDocumentMoniker": "NumberSequence\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\NumberSequence\\Program.cs",
+              "RelativeToolTip": "NumberSequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:10:43.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\SumNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SumNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\SumNumbers\\Program.cs",
+              "RelativeToolTip": "SumNumbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T07:05:13.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\VowelsSum\\Program.cs",
+              "RelativeDocumentMoniker": "VowelsSum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\VowelsSum\\Program.cs",
+              "RelativeToolTip": "VowelsSum\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:51:25.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\CharacterSequence\\Program.cs",
+              "RelativeDocumentMoniker": "CharacterSequence\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\CharacterSequence\\Program.cs",
+              "RelativeToolTip": "CharacterSequence\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:49:47.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\EvenPowersOf2\\Program.cs",
+              "RelativeDocumentMoniker": "EvenPowersOf2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\EvenPowersOf2\\Program.cs",
+              "RelativeToolTip": "EvenPowersOf2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:41:22.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\Numbers1ToNWithStep 3\\Program.cs",
+              "RelativeDocumentMoniker": "Numbers1ToNWithStep 3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\Numbers1ToNWithStep 3\\Program.cs",
+              "RelativeToolTip": "Numbers1ToNWithStep 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:39:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\NumbersNTo1\\Program.cs",
+              "RelativeDocumentMoniker": "NumbersNTo1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\NumbersNTo1\\Program.cs",
+              "RelativeToolTip": "NumbersNTo1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:29:07.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\ForLoop\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\Numbers from 1 to 100\\ForLoop\\Program.cs",
+              "RelativeToolTip": "ForLoop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T06:21:27.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

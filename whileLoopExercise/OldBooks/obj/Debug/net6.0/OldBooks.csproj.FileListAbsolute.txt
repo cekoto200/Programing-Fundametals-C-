@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\bin\Debug\net6.0\OldBooks.exe
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\bin\Debug\net6.0\OldBooks.deps.json
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\bin\Debug\net6.0\OldBooks.runtimeconfig.json
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\bin\Debug\net6.0\OldBooks.dll
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\bin\Debug\net6.0\OldBooks.pdb
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\OldBooks.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\OldBooks.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\OldBooks.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\OldBooks.dll
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\refint\OldBooks.dll
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\OldBooks.pdb
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\OldBooks.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\whileLoopExercise\OldBooks\obj\Debug\net6.0\ref\OldBooks.dll

@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\bin\Debug\net6.0\Numbers1ToNWithStep 3.exe
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\bin\Debug\net6.0\Numbers1ToNWithStep 3.deps.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\bin\Debug\net6.0\Numbers1ToNWithStep 3.runtimeconfig.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\bin\Debug\net6.0\Numbers1ToNWithStep 3.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\bin\Debug\net6.0\Numbers1ToNWithStep 3.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\Numbers1ToNWithStep 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\Numbers1ToNWithStep 3.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\Numbers1ToNWithStep 3.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\Numbers1ToNWithStep 3.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\Numbers1ToNWithStep 3.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\refint\Numbers1ToNWithStep 3.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\Numbers1ToNWithStep 3.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\Numbers1ToNWithStep 3.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\Numbers1ToNWithStep 3\obj\Debug\net6.0\ref\Numbers1ToNWithStep 3.dll

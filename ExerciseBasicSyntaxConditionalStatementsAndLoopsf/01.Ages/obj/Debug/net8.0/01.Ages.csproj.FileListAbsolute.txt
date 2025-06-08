@@ -1,0 +1,4 @@
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\01.Ages\obj\Debug\net8.0\01.Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\01.Ages\obj\Debug\net8.0\01.Ages.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\01.Ages\obj\Debug\net8.0\01.Ages.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\01.Ages\obj\Debug\net8.0\01.Ages.csproj.CoreCompileInputs.cache

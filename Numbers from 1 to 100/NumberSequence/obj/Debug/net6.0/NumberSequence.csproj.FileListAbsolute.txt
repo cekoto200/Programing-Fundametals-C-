@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\bin\Debug\net6.0\NumberSequence.exe
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\bin\Debug\net6.0\NumberSequence.deps.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\bin\Debug\net6.0\NumberSequence.runtimeconfig.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\bin\Debug\net6.0\NumberSequence.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\bin\Debug\net6.0\NumberSequence.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\NumberSequence.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\NumberSequence.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\refint\NumberSequence.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\NumberSequence.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\NumberSequence.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\NumberSequence\obj\Debug\net6.0\ref\NumberSequence.dll

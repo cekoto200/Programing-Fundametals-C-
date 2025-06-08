@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.exe
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.deps.json
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.runtimeconfig.json
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.dll
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\bin\Debug\net6.0\Travelling.pdb
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.dll
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\refint\Travelling.dll
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.pdb
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\Travelling.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\NestedLoops\Travelling\obj\Debug\net6.0\ref\Travelling.dll

@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.exe
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.deps.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.runtimeconfig.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\bin\Debug\net8.0\01.StudentInformation.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\refint\01.StudentInformation.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\01.StudentInformation.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\01.StudentInformation\obj\Debug\net8.0\ref\01.StudentInformation.dll

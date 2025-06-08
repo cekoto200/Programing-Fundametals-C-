@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\bin\Debug\net8.0\12. Even Number.exe
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\bin\Debug\net8.0\12. Even Number.deps.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\bin\Debug\net8.0\12. Even Number.runtimeconfig.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\bin\Debug\net8.0\12. Even Number.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\bin\Debug\net8.0\12. Even Number.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\12. Even Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\12. Even Number.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\12. Even Number.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\12. Even Number.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\12. Even Number.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\refint\12. Even Number.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\12. Even Number.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\12. Even Number.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\12. Even Number\obj\Debug\net8.0\ref\12. Even Number.dll

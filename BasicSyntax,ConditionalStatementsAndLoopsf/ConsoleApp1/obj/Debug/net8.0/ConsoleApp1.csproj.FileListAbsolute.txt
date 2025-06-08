@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

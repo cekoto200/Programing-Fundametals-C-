@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\bin\Debug\net6.0\MovieDestination.exe
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\bin\Debug\net6.0\MovieDestination.deps.json
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\bin\Debug\net6.0\MovieDestination.runtimeconfig.json
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\bin\Debug\net6.0\MovieDestination.dll
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\bin\Debug\net6.0\MovieDestination.pdb
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\MovieDestination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\MovieDestination.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\MovieDestination.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\MovieDestination.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\MovieDestination.dll
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\refint\MovieDestination.dll
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\MovieDestination.pdb
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\MovieDestination.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\ExamPreparation\MovieDestination\obj\Debug\net6.0\ref\MovieDestination.dll

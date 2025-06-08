@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\bin\Debug\net6.0\LeftAndRigh Sum.exe
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\bin\Debug\net6.0\LeftAndRigh Sum.deps.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\bin\Debug\net6.0\LeftAndRigh Sum.runtimeconfig.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\bin\Debug\net6.0\LeftAndRigh Sum.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\bin\Debug\net6.0\LeftAndRigh Sum.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\LeftAndRigh Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\LeftAndRigh Sum.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\LeftAndRigh Sum.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\LeftAndRigh Sum.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\LeftAndRigh Sum.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\refint\LeftAndRigh Sum.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\LeftAndRigh Sum.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\LeftAndRigh Sum.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\LeftAndRigh Sum\obj\Debug\net6.0\ref\LeftAndRigh Sum.dll

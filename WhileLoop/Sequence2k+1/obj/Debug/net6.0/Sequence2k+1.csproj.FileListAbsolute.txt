@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\bin\Debug\net6.0\Sequence2k+1.exe
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\bin\Debug\net6.0\Sequence2k+1.deps.json
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\bin\Debug\net6.0\Sequence2k+1.runtimeconfig.json
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\bin\Debug\net6.0\Sequence2k+1.dll
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\bin\Debug\net6.0\Sequence2k+1.pdb
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\Sequence2k+1.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\Sequence2k+1.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\Sequence2k+1.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\Sequence2k+1.dll
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\refint\Sequence2k+1.dll
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\Sequence2k+1.pdb
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\Sequence2k+1.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\WhileLoop\Sequence2k+1\obj\Debug\net6.0\ref\Sequence2k+1.dll

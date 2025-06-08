@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\Exam\5.Problem\bin\Debug\net6.0\5.Problem.exe
+C:\Users\Цветан\source\repos\Exam\5.Problem\bin\Debug\net6.0\5.Problem.deps.json
+C:\Users\Цветан\source\repos\Exam\5.Problem\bin\Debug\net6.0\5.Problem.runtimeconfig.json
+C:\Users\Цветан\source\repos\Exam\5.Problem\bin\Debug\net6.0\5.Problem.dll
+C:\Users\Цветан\source\repos\Exam\5.Problem\bin\Debug\net6.0\5.Problem.pdb
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\5.Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\5.Problem.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\5.Problem.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\5.Problem.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\5.Problem.dll
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\refint\5.Problem.dll
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\5.Problem.pdb
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\5.Problem.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\Exam\5.Problem\obj\Debug\net6.0\ref\5.Problem.dll

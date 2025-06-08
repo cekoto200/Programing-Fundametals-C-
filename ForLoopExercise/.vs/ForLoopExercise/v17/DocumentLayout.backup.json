@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B97C3F6B-47AA-4A1A-9C5F-905E3C14F3B2}|TennisRanklist\\TennisRanklist.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B97C3F6B-47AA-4A1A-9C5F-905E3C14F3B2}|TennisRanklist\\TennisRanklist.csproj|solutionrelative:tennisranklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E8E337-E69C-4967-81DF-8C9508B20557}|TrekkingMania\\TrekkingMania.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E8E337-E69C-4967-81DF-8C9508B20557}|TrekkingMania\\TrekkingMania.csproj|solutionrelative:trekkingmania\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD74110-1EF3-45A9-940D-93422827DAC9}|Oscars\\Oscars.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD74110-1EF3-45A9-940D-93422827DAC9}|Oscars\\Oscars.csproj|solutionrelative:oscars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60223B7-65CD-4645-AA85-C7FE3AE674CC}|Salary\\Salary.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60223B7-65CD-4645-AA85-C7FE3AE674CC}|Salary\\Salary.csproj|solutionrelative:salary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E809C1-46D1-4718-9BD4-7A011EA13AEA}|CleverLily\\CleverLily.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2E809C1-46D1-4718-9BD4-7A011EA13AEA}|CleverLily\\CleverLily.csproj|solutionrelative:cleverlily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD7D7589-914A-44E5-8A6A-29F7A6BDC448}|Histogram\\Histogram.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD7D7589-914A-44E5-8A6A-29F7A6BDC448}|Histogram\\Histogram.csproj|solutionrelative:histogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA8951C-7AC4-45FA-AFC5-49C5303B16AA}|HalfSumElement\\HalfSumElement.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\halfsumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA8951C-7AC4-45FA-AFC5-49C5303B16AA}|HalfSumElement\\HalfSumElement.csproj|solutionrelative:halfsumelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86EE80C1-DF38-47E9-9617-D6AD0497B5E6}|ForLoopExercise\\ForLoopExercise.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\forloopexercise\\forloopexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86EE80C1-DF38-47E9-9617-D6AD0497B5E6}|ForLoopExercise\\ForLoopExercise.csproj|solutionrelative:forloopexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\TennisRanklist\\Program.cs",
+              "RelativeDocumentMoniker": "TennisRanklist\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\TennisRanklist\\Program.cs",
+              "RelativeToolTip": "TennisRanklist\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:20:35.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\TrekkingMania\\Program.cs",
+              "RelativeDocumentMoniker": "TrekkingMania\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\TrekkingMania\\Program.cs",
+              "RelativeToolTip": "TrekkingMania\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:51:57.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\Oscars\\Program.cs",
+              "RelativeDocumentMoniker": "Oscars\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\Oscars\\Program.cs",
+              "RelativeToolTip": "Oscars\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T11:04:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\Salary\\Program.cs",
+              "RelativeDocumentMoniker": "Salary\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\Salary\\Program.cs",
+              "RelativeToolTip": "Salary\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T10:55:31.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\CleverLily\\Program.cs",
+              "RelativeDocumentMoniker": "CleverLily\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\CleverLily\\Program.cs",
+              "RelativeToolTip": "CleverLily\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:54:14.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\Histogram\\Program.cs",
+              "RelativeDocumentMoniker": "Histogram\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\Histogram\\Program.cs",
+              "RelativeToolTip": "Histogram\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T09:10:12.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\HalfSumElement\\Program.cs",
+              "RelativeDocumentMoniker": "HalfSumElement\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\HalfSumElement\\Program.cs",
+              "RelativeToolTip": "HalfSumElement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:49:14.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\ForLoopExercise\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoopExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ForLoopExercise\\ForLoopExercise\\Program.cs",
+              "RelativeToolTip": "ForLoopExercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T08:31:10.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\bin\Debug\net6.0\CharacterSequence.exe
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\bin\Debug\net6.0\CharacterSequence.deps.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\bin\Debug\net6.0\CharacterSequence.runtimeconfig.json
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\bin\Debug\net6.0\CharacterSequence.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\bin\Debug\net6.0\CharacterSequence.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\CharacterSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\CharacterSequence.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\CharacterSequence.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\CharacterSequence.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\CharacterSequence.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\refint\CharacterSequence.dll
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\CharacterSequence.pdb
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\CharacterSequence.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\Numbers from 1 to 100\CharacterSequence\obj\Debug\net6.0\ref\CharacterSequence.dll

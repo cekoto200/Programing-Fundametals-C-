@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\bin\Debug\net6.0\MinNumber.exe
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\bin\Debug\net6.0\MinNumber.deps.json
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\bin\Debug\net6.0\MinNumber.runtimeconfig.json
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\bin\Debug\net6.0\MinNumber.dll
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\bin\Debug\net6.0\MinNumber.pdb
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\MinNumber.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\MinNumber.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\MinNumber.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\MinNumber.dll
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\refint\MinNumber.dll
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\MinNumber.pdb
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\MinNumber.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\WhileLoop\MinNumber\obj\Debug\net6.0\ref\MinNumber.dll

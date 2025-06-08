@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\bin\Debug\net8.0\03.Elevator.exe
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\bin\Debug\net8.0\03.Elevator.deps.json
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\bin\Debug\net8.0\03.Elevator.runtimeconfig.json
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\bin\Debug\net8.0\03.Elevator.dll
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\bin\Debug\net8.0\03.Elevator.pdb
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\03.Elevator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\03.Elevator.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\03.Elevator.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\03.Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\03.Elevator.dll
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\refint\03.Elevator.dll
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\03.Elevator.pdb
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\03.Elevator.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\01. Integer Operations\03.Elevator\obj\Debug\net8.0\ref\03.Elevator.dll

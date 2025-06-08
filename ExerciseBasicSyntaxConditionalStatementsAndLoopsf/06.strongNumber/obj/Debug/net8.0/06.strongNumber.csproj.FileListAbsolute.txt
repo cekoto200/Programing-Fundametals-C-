@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\06.strongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\06.strongNumber.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\06.strongNumber.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\06.strongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\bin\Debug\net8.0\06.strongNumber.exe
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\bin\Debug\net8.0\06.strongNumber.deps.json
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\bin\Debug\net8.0\06.strongNumber.runtimeconfig.json
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\bin\Debug\net8.0\06.strongNumber.dll
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\bin\Debug\net8.0\06.strongNumber.pdb
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\06.strongNumber.dll
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\refint\06.strongNumber.dll
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\06.strongNumber.pdb
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\06.strongNumber.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\ExerciseBasicSyntaxConditionalStatementsAndLoopsf\06.strongNumber\obj\Debug\net8.0\ref\06.strongNumber.dll

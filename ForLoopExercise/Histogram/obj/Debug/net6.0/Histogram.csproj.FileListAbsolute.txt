@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\bin\Debug\net6.0\Histogram.exe
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\bin\Debug\net6.0\Histogram.deps.json
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\bin\Debug\net6.0\Histogram.runtimeconfig.json
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\bin\Debug\net6.0\Histogram.dll
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\bin\Debug\net6.0\Histogram.pdb
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\Histogram.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\Histogram.dll
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\refint\Histogram.dll
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\Histogram.pdb
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\Histogram.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\ForLoopExercise\Histogram\obj\Debug\net6.0\ref\Histogram.dll

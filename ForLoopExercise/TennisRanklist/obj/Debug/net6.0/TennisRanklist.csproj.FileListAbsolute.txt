@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.exe
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.deps.json
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.runtimeconfig.json
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.dll
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\bin\Debug\net6.0\TennisRanklist.pdb
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.dll
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\refint\TennisRanklist.dll
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.pdb
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\TennisRanklist.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\ForLoopExercise\TennisRanklist\obj\Debug\net6.0\ref\TennisRanklist.dll

@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.exe
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.deps.json
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.runtimeconfig.json
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.dll
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\bin\Debug\net6.0\Combinations.pdb
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.dll
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\refint\Combinations.dll
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.pdb
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\Combinations.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\NestedLoops\Combinations\obj\Debug\net6.0\ref\Combinations.dll

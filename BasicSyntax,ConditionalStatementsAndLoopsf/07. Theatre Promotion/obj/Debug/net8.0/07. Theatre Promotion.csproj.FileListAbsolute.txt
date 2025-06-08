@@ -1,0 +1,14 @@
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\bin\Debug\net8.0\07. Theatre Promotion.exe
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\bin\Debug\net8.0\07. Theatre Promotion.deps.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\bin\Debug\net8.0\07. Theatre Promotion.runtimeconfig.json
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\bin\Debug\net8.0\07. Theatre Promotion.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\bin\Debug\net8.0\07. Theatre Promotion.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\07. Theatre Promotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\07. Theatre Promotion.AssemblyInfoInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\07. Theatre Promotion.AssemblyInfo.cs
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\07. Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\07. Theatre Promotion.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\refint\07. Theatre Promotion.dll
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\07. Theatre Promotion.pdb
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\07. Theatre Promotion.genruntimeconfig.cache
+C:\Users\Цветан\source\repos\BasicSyntax,ConditionalStatementsAndLoopsf\07. Theatre Promotion\obj\Debug\net8.0\ref\07. Theatre Promotion.dll
