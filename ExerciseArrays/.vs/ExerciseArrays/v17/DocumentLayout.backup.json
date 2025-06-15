@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26DFDBFF-6ED1-450C-97FC-87524D7DC18C}|08.MagicSum\\08.MagicSum.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DFDBFF-6ED1-450C-97FC-87524D7DC18C}|08.MagicSum\\08.MagicSum.csproj|solutionrelative:08.magicsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3473210D-4D19-40FC-9EBD-09EA2665EAB8}|02.CommonElements\\02.CommonElements.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3473210D-4D19-40FC-9EBD-09EA2665EAB8}|02.CommonElements\\02.CommonElements.csproj|solutionrelative:02.commonelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C346DCA-F98C-4ED0-846B-A83DD0F49F95}|07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C346DCA-F98C-4ED0-846B-A83DD0F49F95}|07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj|solutionrelative:07.maxsequenceofequalelements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9625B8B2-E5BE-4A5B-9152-D50EBDDBAF0B}|06.EqualSum\\06.EqualSum.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\06.equalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9625B8B2-E5BE-4A5B-9152-D50EBDDBAF0B}|06.EqualSum\\06.EqualSum.csproj|solutionrelative:06.equalsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F80712-FDA7-43F9-9642-BCC6E0BEE1FF}|05.TopIntegers\\05.TopIntegers.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\05.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F80712-FDA7-43F9-9642-BCC6E0BEE1FF}|05.TopIntegers\\05.TopIntegers.csproj|solutionrelative:05.topintegers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB2080C-7C4F-495C-B251-6A4B56F37EAA}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\03.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB2080C-7C4F-495C-B251-6A4B56F37EAA}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|solutionrelative:03.zig-zagarrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D6C145-52E8-4FD5-8788-12B39A2C55A1}|04.ArrayRotation\\04.ArrayRotation.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\04.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D6C145-52E8-4FD5-8788-12B39A2C55A1}|04.ArrayRotation\\04.ArrayRotation.csproj|solutionrelative:04.arrayrotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB2080C-7C4F-495C-B251-6A4B56F37EAA}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\03.zig-zagarrays\\03.zig-zagarrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEB2080C-7C4F-495C-B251-6A4B56F37EAA}|03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj|solutionrelative:03.zig-zagarrays\\03.zig-zagarrays.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3473210D-4D19-40FC-9EBD-09EA2665EAB8}|02.CommonElements\\02.CommonElements.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\02.commonelements\\02.commonelements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3473210D-4D19-40FC-9EBD-09EA2665EAB8}|02.CommonElements\\02.CommonElements.csproj|solutionrelative:02.commonelements\\02.commonelements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B689E0F2-AE06-4CF0-95A1-06AF16BAF017}|01.Train\\01.Train.csproj|c:\\users\\\u0446\u0432\u0435\u0442\u0430\u043D\\source\\repos\\exercisearrays\\01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B689E0F2-AE06-4CF0-95A1-06AF16BAF017}|01.Train\\01.Train.csproj|solutionrelative:01.train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\08.MagicSum\\Program.cs",
+              "RelativeDocumentMoniker": "08.MagicSum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\08.MagicSum\\Program.cs",
+              "RelativeToolTip": "08.MagicSum\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:30:58.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\07.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeDocumentMoniker": "07.MaxSequenceOfEqualElements\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\07.MaxSequenceOfEqualElements\\Program.cs",
+              "RelativeToolTip": "07.MaxSequenceOfEqualElements\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:23:38.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\06.EqualSum\\Program.cs",
+              "RelativeDocumentMoniker": "06.EqualSum\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\06.EqualSum\\Program.cs",
+              "RelativeToolTip": "06.EqualSum\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:52:46.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\05.TopIntegers\\Program.cs",
+              "RelativeDocumentMoniker": "05.TopIntegers\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\05.TopIntegers\\Program.cs",
+              "RelativeToolTip": "05.TopIntegers\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:57:50.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\04.ArrayRotation\\Program.cs",
+              "RelativeDocumentMoniker": "04.ArrayRotation\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\04.ArrayRotation\\Program.cs",
+              "RelativeToolTip": "04.ArrayRotation\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:35:17.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03.Zig-ZagArrays.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
+              "RelativeDocumentMoniker": "03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
+              "RelativeToolTip": "03.Zig-ZagArrays\\03.Zig-ZagArrays.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T17:16:57.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\03.Zig-ZagArrays\\Program.cs",
+              "RelativeDocumentMoniker": "03.Zig-ZagArrays\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\03.Zig-ZagArrays\\Program.cs",
+              "RelativeToolTip": "03.Zig-ZagArrays\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:16:50.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "02.CommonElements.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\02.CommonElements\\02.CommonElements.csproj",
+              "RelativeDocumentMoniker": "02.CommonElements\\02.CommonElements.csproj",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\02.CommonElements\\02.CommonElements.csproj",
+              "RelativeToolTip": "02.CommonElements\\02.CommonElements.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-09T17:07:39.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\02.CommonElements\\Program.cs",
+              "RelativeDocumentMoniker": "02.CommonElements\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\02.CommonElements\\Program.cs",
+              "RelativeToolTip": "02.CommonElements\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:07:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\01.Train\\Program.cs",
+              "RelativeDocumentMoniker": "01.Train\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0426\u0432\u0435\u0442\u0430\u043D\\source\\repos\\ExerciseArrays\\01.Train\\Program.cs",
+              "RelativeToolTip": "01.Train\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:52:15.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
